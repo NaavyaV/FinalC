@@ -53,7 +53,7 @@ function preload(){
   car2Img = loadImage('Images/Black_viper2.png')
   heartImg = loadImage('Images/Heart.png')
   ccrImg = loadImage('Images/CarCrash.png')
-  menuSS = loadImage('Images/Game Splash Screen.png');
+  menuSS = loadImage('Images/Game Wall.png');
   blankSS = loadImage('Images/Game instructions.png');
 
   glugSound = loadSound('glug.mp3')
